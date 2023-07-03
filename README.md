@@ -1,4 +1,4 @@
-# just_see
+# flutter foodie
 
 A new Flutter project.
 
